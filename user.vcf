@@ -7,7 +7,7 @@ ORG:Black Book;
 TITLE:Vice President, Data Licensing
 EMAIL;type=INTERNET;type=WORK;type=pref:susan.moritz@blackbook.com
 TEL;type=WORK;type=VOICE:317-900-3318
-item1.ADR;type=WORK;type=pref:;;1745 N orth Brown\Lawrenceville\, GA;;;
+item1.ADR;type=WORK;type=pref:;;1745 North Brown\Lawrenceville\, GA;;;
 item1.X-ABADR:sg
 item2.URL;type=pref:blackbook.com
 item2.X-ABLabel:_$!<HomePage>!$_
